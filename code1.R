@@ -1,6 +1,0 @@
-x<-rnorm(10)
-hist(x)
-fivenum(x)
-y<-rnorm(100)
-hist(y)
-z<-rnorm(1000)
